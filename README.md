@@ -13,3 +13,5 @@
 ## Links:
 1. [Github](https://github.com/manojnuvvala)
 2. [LinkedIn](https://www.linkedin.com/in/nuvvala-manoj-235621172/)
+
+![myphoto](https://avatars.githubusercontent.com/u/77800099?s=96&v=4)
